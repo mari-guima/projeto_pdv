@@ -99,17 +99,11 @@ Você pode usar ferramentas como:
 
 ---
 
-## 🤝 Contribuição
-
-Pull requests são bem-vindos! Sinta-se à vontade para sugerir melhorias, novos endpoints ou ajustes.
-
----
-
 ## 📄 Licença
 
 Este projeto é apenas para fins educacionais.
 
 ---
 
-Feito com 💻 e um toque de café por [Seu Nome].
+Feito com 💻 e um toque de chá por Marine.
 
